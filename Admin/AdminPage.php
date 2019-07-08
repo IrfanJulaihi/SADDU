@@ -434,6 +434,10 @@ showRecords();}
 </form>
 
 
+
+
+
+
 <div class="topnav" id="myTopnav">
   <a style=" background-color:#0FED56;">Sistem Aduan Dalaman DBKU</a>
   <a href="AdminPage.php" >Laman Utama</a>
@@ -447,7 +451,7 @@ showRecords();}
     <a href="#" onclick="showModal()">Daftar Akaun
 </a>
       <a href="View Registered User/ViewCurrentUser.php">Papar Akaun Semasa</a>
-  
+  <a href="#">Tukar Person In Charge</a>
     </div>
     
   </div>
